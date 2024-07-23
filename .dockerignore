@@ -1,0 +1,29 @@
+# Mac
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.py[codt]
+*$py.class
+
+# Python environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Visual Studio Code
+.vscode/
+
+# Node
+node_modules/
+
+# Repository
+.git/
+.gitignore
+.dockerignore
+Dockerfile
